@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer pk_test_LsRBKejzCOEEWOsw"
+  },
+  "body": "{\"token\": \"jqGJACjR8wYN49Cn\"}"
+}

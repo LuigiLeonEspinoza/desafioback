@@ -1,0 +1,7 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer pk_test_LsRBKejzCOEEWOsw"
+  },
+  "body": "{\"card_number\": 4111111111111111,\n \"cvv\": 122 ,\n \"expiration_month\": \"12\" ,\n \"expiration_year\": \"2023\" ,\n \"email\": \"snik@gmail.com\" }"
+}
